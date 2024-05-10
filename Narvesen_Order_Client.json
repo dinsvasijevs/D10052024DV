@@ -1,0 +1,77 @@
+{
+  "CompanyName": "Narvesen",
+  "ClientsOrder" : [
+  {
+    "Product": "WashingPowder",
+    "Name": "Tide",
+    "Price": 2.99,
+    "Quantity": 1
+  },
+  {
+    "Product": "Lays",
+    "Name": "Chips",
+    "Price": 1.99,
+    "Quantity": 1
+  },
+  {
+    "Product": "Fruits",
+    "Name": "ShineOne",
+    "Price": 6.35,
+    "Quantity": 1
+  },
+  {
+    "Product": "Milk",
+    "Name": "Milk",
+    "Price": 1.65,
+    "Quantity": 1
+  },
+  {
+    "Product": "Nuts",
+    "Name": "DeezNuts",
+    "Price": 2.99,
+    "Quantity": 1
+  },
+  {
+    "Product": "AppleJuice",
+    "Name": "Cido",
+    "Price": 3.30,
+    "Quantity": 1
+  },
+  {
+    "Product": "Meat",
+    "Name": "Kekava",
+    "Price": 5,
+    "Quantity": 1
+  },
+  {
+    "Product": "Socks",
+    "Name": "Adiddas",
+    "Price": 5,
+    "Quantity": 1
+  },
+  {
+    "Product": "Rum",
+    "Name": "CaptainMorgan",
+    "Price": 12.99,
+    "Quantity": 1
+  },
+  {
+    "Product": "Banana",
+    "Name": "Banana",
+    "Price": 1.35,
+    "Quantity": 1
+  },
+  {
+    "Product": "Cola",
+    "Name": "Coke",
+    "Price": 1.99,
+    "Quantity": 1
+  },
+  {
+    "Product": "IceCube's",
+    "Name": "Greenlandia",
+    "Price": 1.19,
+    "Quantity": 1
+  }
+]
+}

@@ -1,0 +1,10 @@
+{
+  "name": " Randall Thymes",
+  "description": "CEO of PLUMMCORP",
+  "MoneyForShop": 500,
+  "main": "Narvesen.php",
+  "scripts": {
+    "test": "echo \"Error: No existing person\" && exit 1"
+  },
+  "private": false
+}
